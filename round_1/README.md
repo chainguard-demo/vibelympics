@@ -1,5 +1,7 @@
 # Challenge 1: App with Emoji-Only UI
 
+<img src="../assets/emojis.png" width="700" alt="Emojis">
+
 ## Themes
 - Build with Chainguard Containers
 - Get weird

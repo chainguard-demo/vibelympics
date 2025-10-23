@@ -1,5 +1,7 @@
 # Challenge 3: Meme Generator 2.0 (FINAL)
 
+<img src="../assets/thats_not_a_meme.png" width="700" alt="That's not a meme">
+
 ## Themes
 - Memes
 - AI

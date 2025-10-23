@@ -1,5 +1,7 @@
 # Challenge 2: Package Ecosystem Auditor
 
+<img src="../assets/repojacker.gif" width="700" alt="Repojacker">
+
 ## Theme
 - Software supply chain security
 
