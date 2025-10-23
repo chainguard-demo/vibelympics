@@ -1,4 +1,4 @@
-# vibelympics
+# Vibelympics 🏅✨
 
 Welcome to Chainguard's Vibelympics, our first ever vibe coding tournament, where the only rule is writing code without looking at the code! 
 
