@@ -47,7 +47,7 @@ After registering, take next steps:
       <th scope="row">Challenge 3 (Final)</th>
       <td>December 15</td>
       <td>December 18, 11:59 PM EST</td>
-      <td>December 19 (livestream judging)</td>
+      <td>December 19 (livestream judging, time TBD)</td>
     </tr>
   </tbody>
 </table>
