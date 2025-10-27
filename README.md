@@ -19,6 +19,39 @@ After registering, take next steps:
 2. Review the folder for the first round of Vibelympics for information on the challenge.
 3. Start vibing!
 
+## Schedule
+
+<table role="table" aria-label="Vibelympics Competition Schedule">
+  <thead>
+    <tr>
+      <th scope="col">Round</th>
+      <th scope="col">Opens</th>
+      <th scope="col">Submission Deadline</th>
+      <th scope="col">Judging & Results</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Challenge 1</th>
+      <td>December 1</td>
+      <td>December 4, 11:59 PM EST</td>
+      <td>December 5 (advancing teams announced)</td>
+    </tr>
+    <tr>
+      <th scope="row">Challenge 2</th>
+      <td>December 8</td>
+      <td>December 11, 11:59 PM EST</td>
+      <td>December 12 (finalists announced)</td>
+    </tr>
+    <tr>
+      <th scope="row">Challenge 3 (Final)</th>
+      <td>December 15</td>
+      <td>December 18, 11:59 PM EST</td>
+      <td>December 19 (livestream judging)</td>
+    </tr>
+  </tbody>
+</table>
+
 ## FAQ
 
 Q: What do you mean, don't look at the code? How are you going to enforce that.
