@@ -16,7 +16,7 @@ To register for the competition, follow these steps:
 After registering, take next steps:
 
 1. Edit this README with information related to the projects you create for the competition.
-2. Review the folder for the first round of Vibelympics for information on the challenge.
+2. When the competition starts on December 1st, review the folder for the first round of Vibelympics for information on the challenge. You'll also receive an email from us.
 3. Start vibing!
 
 ## Schedule
