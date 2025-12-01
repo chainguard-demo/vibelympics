@@ -64,7 +64,7 @@ A: No.
 
 Q: Can the AI look at the code?
 
-A: Yes, of course. Your'e starting to get it now.
+A: Yes, of course. You're starting to get it now.
 
 Q: I have a cool idea for the challenge, but, like, I'm worried it violates the requirements you wrote.
 
