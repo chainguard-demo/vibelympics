@@ -27,4 +27,4 @@ Stuck? Here are some derivative ideas!
 - Beanie baby collection database / sorter (🐢🧸, topical!)
 
 ## Deadline
-XXX
+December 4th at 11:59pm EST
