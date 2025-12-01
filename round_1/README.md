@@ -26,5 +26,8 @@ Stuck? Here are some derivative ideas!
 - Demonic energy detector (😈)
 - Beanie baby collection database / sorter (🐢🧸, topical!)
 
+## Submission
+To submit, simply replace the contents of this folder (round_1) with the code for your project. Make sure to replace this README.md with instructions on getting your project running. Also make sure your vibelympics repository is public and that you've pushed all the code you want us to see. We will pull in your submission directly from your repository.
+
 ## Deadline
 December 4, 11:59 PM EST
