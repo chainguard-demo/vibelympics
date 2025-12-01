@@ -19,7 +19,7 @@ Build a fully functional application where the entire user interface uses ONLY e
 Stuck? Here are some derivative ideas!
 
 - Calculator (🔢 ➕ ➖ ✖️ ➗)
-- Todo app (✅ ❌ 📝 🗑️)
+- To Do app (✅ ❌ 📝 🗑️)
 - Weather app (☀️ 🌧️ ❄️ 🌡️)
 - Music player (▶️ ⏸️ ⏭️ 🔀 🔁)
 - Mini game (🎮)
@@ -27,4 +27,4 @@ Stuck? Here are some derivative ideas!
 - Beanie baby collection database / sorter (🐢🧸, topical!)
 
 ## Deadline
-December 4, 11:59PM EST
+December 4, 11:59 PM EST
