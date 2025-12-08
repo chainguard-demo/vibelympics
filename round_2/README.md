@@ -18,4 +18,4 @@ Build a tool that audits packages in an ecosystem of your choice (PyPI, npm, Mav
 - Information on results can be in any format (feel free to get weird)
 
 ## Deadline
-XXX
+11:59 Eastern on Thursday, December 11th, 2025
