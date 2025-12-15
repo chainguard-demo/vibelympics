@@ -22,6 +22,6 @@ Build an AI-powered meme generator that creates new memes. Your generator should
 - Dan Lorenc will be judging you and he's, like, a big deal security guy. Up to you if you want to think about security. 🙃
 
 ## Deadline
-XXX
+Thursday, December 18th at noon Eastern
 
 This is the final - top 3 teams only. Will be demoed live on stream.
